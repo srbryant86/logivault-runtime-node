@@ -1,0 +1,5 @@
+
+<!-- TRUST FEED EMBED -->
+<script src="/PublicTrust/seal.js"></script>
+<link rel="stylesheet" href="/PublicTrust/trust_badge.svg">
+<!-- End Embed -->

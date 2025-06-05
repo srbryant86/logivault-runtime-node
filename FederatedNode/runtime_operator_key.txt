@@ -1,0 +1,3 @@
+Authority Signature: S.R. Bryant
+Role: Runtime Layer 0 Operator
+Key Hash: certnode-root-operator-key.lock

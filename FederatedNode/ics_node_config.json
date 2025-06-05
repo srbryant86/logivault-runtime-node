@@ -1,0 +1,6 @@
+{
+  "ics_enabled": true,
+  "anchor_tracking": true,
+  "drift_alerts": true,
+  "external_feed": "https://logivault.ai/ics_feed.json"
+}

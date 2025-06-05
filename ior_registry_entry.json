@@ -1,0 +1,10 @@
+{
+  "snapshot_id": "VaultSnapshot_OPTIXGATE_RT_40-100_v1",
+  "operator": "S.R. Bryant",
+  "trust_scope": "T1–T100",
+  "certified_value_usd": 145000000,
+  "ics_status": "sealed",
+  "sta_active": true,
+  "sds_monitoring": true,
+  "export_url": "https://github.com/YOUR_USERNAME/logivault-runtime-node"
+}

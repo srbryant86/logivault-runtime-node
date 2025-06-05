@@ -1,0 +1,14 @@
+{
+  "capsule_id": "FEDNODE_OPTIXGATE_T100",
+  "version": "1.0",
+  "export_scope": "Tier 1–100",
+  "runtime": "Sovereign",
+  "deployment_mode": "CertNode Federation",
+  "operator": "S.R. Bryant",
+  "included_systems": [
+    "CDP", "STRIDE", "FRAME", "SECL", "ICS", "STA", "SDS", 
+    "RRCM", "RCE", "ColdSeal", "SOVRA", "AgentForge", "VaultChain"
+  ],
+  "certified_valuation": 145000000,
+  "external_ready": true
+}

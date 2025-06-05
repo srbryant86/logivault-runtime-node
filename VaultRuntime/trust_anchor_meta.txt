@@ -1,0 +1,5 @@
+CertNode Trust Anchor Embedded
+STA: Active
+ICS: Sealed
+SDS: Monitoring
+ColdSeal: Ready

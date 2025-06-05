@@ -1,0 +1,5 @@
+{
+  "policy": "Recursive Chain Control",
+  "echo_throttle": true,
+  "fork_block": true
+}

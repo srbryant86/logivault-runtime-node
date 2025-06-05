@@ -1,0 +1,5 @@
+runtime_engine: AXIS
+execution_mode: sovereign
+optimization_modules:
+  - OPTILEV
+  - OPTIMAX

@@ -1,0 +1,9 @@
+{
+  "snapshot_id": "VM_OPTIXGATE_RT_40-100_v1",
+  "range": "T40–T100",
+  "runtime": "AXIS",
+  "status": "Verified",
+  "trust_level": "Tier 1",
+  "drift_firewall": true,
+  "convergence": "Slope-Fused / No Drift Detected"
+}
