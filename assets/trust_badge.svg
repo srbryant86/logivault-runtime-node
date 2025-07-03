@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150">
+  <circle cx="75" cy="75" r="70" stroke="#007bff" stroke-width="6" fill="none"/>
+  <text x="75" y="85" font-size="22" text-anchor="middle" fill="#007bff">✓ ICS</text>
+</svg>
